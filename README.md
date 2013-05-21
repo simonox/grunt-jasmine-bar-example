@@ -23,9 +23,9 @@ In einem Projekt, in dem sich der Frontend-Anteil entkoppelt vom Backend-Teil ba
 
 In diesem Beispiel-Projekt ist ein sehr einfacher Build-Prozess exemplarisch implementiert. Dieser Build-Prozess besteht nur aus drei Schritten:
 
-+Linting mit JSHint
-+Testing mit Jasmine
-+Dokumentieren mit JSDoc
++ Linting mit JSHint
++ Testing mit Jasmine
++ Dokumentieren mit JSDoc
 
 
 Linting findet mit JSHint statt. JSHint ist ein Community-Projekt, das dem Vorblid JSLint ähnelt. Sowohl JSHint als auch JSHint untersuchen JS-Quellen nach potentiellen Fehlern oder Problemverursachern. Darüber hinaus lässt es sich einsetzen, um die Coding Conventions eines Teams durchzusetzen.
