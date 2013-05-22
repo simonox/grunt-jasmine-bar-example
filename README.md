@@ -1,11 +1,5 @@
-grunt-jasmine-bar-example
-=========================
-
-This is just a simple example for a Grunt build script using Jasmine for BDD testing.
-
-
-Beschreibung in deutscher Sprache
-=================================
+Grunt-Build mit JSHint, Jasmine und JSDoc
+=========================================
 
 
 Enterprise-Entwicklung ist in der Regel Teamarbeit. Eine umfangreiche Codebasis muss wartbar bleiben. Dies gilt auch für Projekte, in denen große Teile des Codes in JS entwickelt werden.
