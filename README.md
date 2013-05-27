@@ -13,7 +13,7 @@ In einem Projekt, in dem sich der Frontend-Anteil entkoppelt vom Backend-Teil ba
 
 [Grunt](http://gruntjs.com/) ist ein taskbasiertes Buildsystem, das über die Kommandaozeile bedient wird. Grunt basiert auf [Node.js](http://nodejs.org/) und dem dazu gehörenden [Package Manager NPM für Node Packaged Modules](https://npmjs.org/). Nachdem Node.js installiert ist, lässt sich Grunt über NPM global (für alle Nutzer) installieren.
 
-    sudo npm install –g grunt-cl
+    sudo npm install –g grunt-cli
 
 In diesem Beispiel-Projekt ist ein sehr einfacher Build-Prozess exemplarisch implementiert. Dieser Build-Prozess besteht nur aus drei Schritten:
 

@@ -1,22 +1,15 @@
 {
-  "name": "grunt-jasmine-runner-example",
-  "description": "Example application using grunt-jasmine-runner",
-  "version": "0.1.1",
-  "homepage": "https://github.com/jsoverson/grunt-jasmine-runner-example",
+  "name": "grunt-jasmine-bar-example",
+  "description": "Example application using grunt-jasmine-runner and a bar",
+  "version": "0.0.1",
+  "homepage": "https://github.com/simonox/grunt-jasmine-bar-example",
   "author": {
-    "name": "Jarrod Overson",
-    "email": "jsoverson@gmail.com",
-    "url": "http://jarrodoverson.com/"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/jsoverson/grunt-jasmine-runner-example.git"
+    "name": "Oliver Ochs",
+    "email": "oliver.ochs@holisticon.de",
+    "url": "http://blog.holisticon.de/"
   },
   "scripts": {
     "test": "grunt jasmine"
-  },
-  "bugs": {
-    "url": "https://github.com/jsoverson/grunt-jasmine-runner-example/issues"
   },
   "devDependencies": {
     "grunt-jasmine-runner": "latest",
