@@ -1,6 +1,9 @@
 Grunt-Build mit JSHint, Jasmine und JSDoc
 =========================================
 
+[![Build Status](https://travis-ci.org/simonox/grunt-jasmine-bar-example.png)](https://travis-ci.org/simonox/grunt-jasmine-bar-example)
+
+
 
 Enterprise-Entwicklung ist in der Regel Teamarbeit. Eine umfangreiche Codebasis muss wartbar bleiben. Dies gilt auch für Projekte, in denen große Teile des Codes in JS entwickelt werden.
 
