@@ -19,4 +19,3 @@ describe("Barkeeper", function(){
 		expect(drinks).toContain(new WodkaLemon());
 	})
 });
-
